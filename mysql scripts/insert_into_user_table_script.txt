@@ -1,0 +1,4 @@
+INSERT INTO `users`
+(`username`, `firstName`, `lastName`, `email`, `password`, `signUpDate`) 
+VALUES 
+("tester","Test","Test","Test@gg.org","$2y$10$HIDnHMnM0nP2kcmSkkmOF.1aSfjNann8KfIDZ7LNQvqh3gXE7pjV6", "2018-12-07");

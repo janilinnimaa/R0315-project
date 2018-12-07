@@ -1,0 +1,99 @@
+html, body {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: normal;
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+h2 {
+    color: #d1a631;
+    font-size: 50px;
+    background-color: transparent;
+    padding: 0px 0px 15px 0px;
+}
+
+form, input {
+    color: white !important;
+}
+
+.pull-left {
+    color: #d1a631;
+    font-size: 50px;
+    background-color: transparent;
+    padding: 0px 0px 15px 0px;
+}
+
+.bodytext {
+    color: #a0a0a0;  
+}
+
+.fas {
+    color: #d1a631;
+}
+
+.btn-success
+{
+    background-color: transparent;
+    color:#FFF;
+    border-color: #fff;
+    border-width: 2px;
+    border-radius: 250px;
+    font-size: 14px;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: normal;
+    height: 41px;
+    width: 25%;
+    letter-spacing: 1px;
+    margin: 0px 30px 0px 0px;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+
+    background-color: #2F3E48;
+    color:#FFF;
+    border-color: #fff;
+ }
+
+.table1 {
+    background-color: transparent;
+    color: #fff;
+    line-height: 1em;
+    margin: 20px 0;    
+}
+
+#bottomButtons {
+    margin: 50px auto;
+    display: block;
+}
+
+.form-group label{
+    color: #a0a0a0;
+}
+
+.form-control {
+    background-color: transparent;
+    color: #fff;
+}
+
+.form-control:valid {
+    background-color: transparent!important;
+}
+
+.form-control-static {
+    color: #fff;
+}
+
+.help-block {
+    color: #d1a631;
+}
+
+#delete {
+    text-align: center;
+}
+
+.alert {
+    border-color: #a0a0a0;
+    text-align: center;
+    background-color: transparent!important; 
+}

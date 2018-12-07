@@ -1,0 +1,7 @@
+INSERT INTO `premade_characters`
+(`name`, `physical`, `mental`, `occupation`, `goal`) 
+VALUES 
+("Marek","One-eyed","Shrewd","Pirate","Retirement"),
+("Helga","Bald","Affable","Bureaucrat","Buy a car"),
+("Hizik","Clumsy","Tense","Alchemist","Create gold"),
+("Issa","Nimble","Happy","Vagrant","Adventure!");

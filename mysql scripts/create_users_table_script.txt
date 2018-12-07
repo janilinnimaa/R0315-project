@@ -1,0 +1,10 @@
+CREATE TABLE users (
+    id int NOT NULL AUTO_INCREMENT,
+    username varchar(25),
+    firstName varchar(50),
+    lastName varchar(50),
+    email varchar(200),
+    password varchar(200),
+    signUpDate datetime,
+    PRIMARY KEY (ID)
+);

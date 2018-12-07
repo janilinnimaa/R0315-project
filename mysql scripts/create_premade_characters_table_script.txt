@@ -1,0 +1,9 @@
+CREATE TABLE premade_characters (
+    id int NOT NULL AUTO_INCREMENT,
+    name varchar(50),
+    physical varchar(100),
+    mental varchar(100),
+    occupation varchar(200),
+    goal varchar(200),
+    PRIMARY KEY (ID)
+);
